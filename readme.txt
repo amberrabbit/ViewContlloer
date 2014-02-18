@@ -1,0 +1,6 @@
+ViewContlloerについて
+iPhoneアプリは、大凡ViewContlloer.hとViewContlloer.mとMainStorybord.storybordで構成される。
+
+MainStorybord.storybordで画面の設定をGUIで操作し、ViewContlloer.hに、MainStorybord.storybordで設定したLabelなどの装飾品を登録し、ViewContlloer.mで登録した物の中身を設定することができる。
+
+例えると、看板がMainStorybord.storybordで、項目がViewContlloer.hで、ViewContlloer.mが項目内容になる。
